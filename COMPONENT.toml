@@ -1,0 +1,5 @@
+[component]
+name = "SigmaOS-compose-multiplatform"
+version = "0.1.0"
+category = "platform"
+description = "Compose Multiplatform declarative UI runtime for SigmaOS"
